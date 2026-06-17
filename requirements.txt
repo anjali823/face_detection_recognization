@@ -1,0 +1,15 @@
+Tensorflow
+keras
+pandas
+numpy
+Jupyter
+Notebook
+Tqdm
+Opencv-contrib-python
+
+
+# images
+# images/angry/anjali.png
+# images/angry/a.png
+# images/sad/anjali.png
+# images/sad/anu.png
